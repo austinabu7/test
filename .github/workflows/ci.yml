@@ -20,4 +20,4 @@ jobs:
           python-version: '3.11'
 
       - name: 🧪 Run tests
-        run: python test_calculator.py
+        run: python test_app.py
